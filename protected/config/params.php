@@ -1,6 +1,6 @@
 <?php
 
-return [
+return array(
     'adminEmail' => 'admin@example.com',
 	'appid' =>'wx05a87acdc3d63406',
 	'secret' => '1eca4c9c03b8e32490c68f90b9977901',
@@ -78,4 +78,4 @@ return [
 	            }]
 	       }]
 	 }',
-];
+);
